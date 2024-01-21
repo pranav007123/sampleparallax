@@ -1,0 +1,76 @@
+.parallax1 {
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    /* The image used */
+    background-image: url("./images/one.jpeg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax2 {
+    text-align: center;
+    color:white;
+    font-weight: bold;
+
+    /* The image used */
+    background-image: url("./images/two.jpeg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax3 {
+    text-align: center;
+    color:white;
+    font-weight: bold;
+
+    /* The image used */
+    background-image: url("./images/three.jpeg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .heading{
+    text-align:center;
+    padding-top: 10%;
+  }
+  .writing{
+background-color:azure;
+     /* The image used */
+     /* background-image: url(""); */
+  
+     /* Set a specific height */
+    /* min-height: 200px; */
+   
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  .foot{
+    background-color: black;
+    color: azure;
+    min-height: 200Px;
+    font-weight: 900;
+    font-size: xx-large;
+  }
